@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kiehn.albert@icloud.com
+	name = Albert Kiehn
